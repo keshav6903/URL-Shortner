@@ -4,6 +4,9 @@ This is a simple web application that shortens long URLs (like `https://www.exam
 
 ## What can this app do?
 **Shorten URLs**: You send a long URL, and the app gives you a short code (e.g., `abc123`) and a short link (e.g., `http://localhost:5000/abc123`).
-2. **Redirect**: When you visit the short link, it takes you to the original long URL.
-3. **Track Clicks**: The app counts how many times a short link is clicked and shows details like the original URL and creation time.
-4. **Handle Errors**: If you send a bad URL or a wrong short code, the app shows a clear error message.
+ 
+ **Redirect**: When you visit the short link, it takes you to the original long URL.
+ 
+ **Track Clicks**: The app counts how many times a short link is clicked and shows details like the original URL and creation time.
+
+ **Handle Errors**: If you send a bad URL or a wrong short code, the app shows a clear error message.
